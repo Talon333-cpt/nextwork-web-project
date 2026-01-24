@@ -53,7 +53,7 @@ To get this project up and running on your local machine, follow these steps:
 <br>
 
 ## Contact
-If you have any questions or comments about the NextWork Web Project, please contact:
+If you have any questions or comments about the NextWork Web Project, please contact me on Linkedin @ https://www.linkedin.com/in/talon-andrews-rcs-15b2378a/ or email me
 Talon Andrews - [talonrandrews@outlook.com](mailto:talonrandrews@outlook.com)
 
 <br>
